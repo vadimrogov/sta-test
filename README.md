@@ -3,7 +3,7 @@ To complete the test task, I chose the React framework. Because I am applying fo
 
 The architecture I proposed makes it easy to make changes to logic and extend rules.
 
-For the rest, I used `MaterialUI` for the components, since at this stage you do not need to write your own components and this library allows you to make a beautiful design in a short time. And I used `create-react-app with typescript`.
+For the rest, I used `MaterialUI` for the components, since at this stage you do not need to write your own components and this library allows you to make a beautiful design in a short time. And I used `create-react-app` with `typescript`.
 
 You can see errors for exceptions from the rules in the console.
 
